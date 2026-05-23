@@ -22,8 +22,8 @@ We are engaged in the creation of modern and unique plugins for various projects
 {% hint style="info" %}
 ### Join to us [**Discord**](https://dsc.gg/treexstudio)
 
-### [**Discord**](https://dsc.gg/treexstudio) **RU**
+### [**Discord**](https://dsc.gg/jmdev) **EN**
 
-### [**Discord**](https://dsc.gg/jetby) **EN**
+### [**Discord**](https://dsc.gg/treexstudio) **RU**
 {% endhint %}
 
