@@ -13,13 +13,13 @@ The plugin supports addons compiled with **`Java 17`** or higher, provided that 
 ```css
 repositories {
     maven {
-        url "http://api.jetby.space/"
-        name "jetby-repo"
+        url "http://api.jetby.org/"
+        name "JetbyMC"
     }
 }
 
 dependencies {
-    compileOnly "me.jetby:Libb:1.0"
+    compileOnly "org.jetby:libb:api:VERSION"
 }
 ```
 {% endtab %}
@@ -31,13 +31,13 @@ The plugin supports addons compiled with <mark style="background-color:red;">**`
 
 ```xml
 <repository>
-  <id>jetby-repo</id>
-  <url>http://api.jetby.space/</url>
+  <id>JetbyMC</id>
+  <url>http://api.jetby.org/</url>
 </repository>
 
 <dependency>
-  <groupId>me.jetby</groupId>
-  <artifactId>Libb</artifactId>
+  <groupId>org.jetby.libb</groupId>
+  <artifactId>api</artifactId>
   <version>VERSION</version>
   <scope>provided</scope>
 </dependency>

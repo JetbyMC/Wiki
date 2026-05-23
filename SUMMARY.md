@@ -19,4 +19,5 @@
   * [Menus](plugins/treexbuyer/menus.md)
   * [Placeholders](plugins/treexbuyer/placeholders.md)
   * [Commands](plugins/treexbuyer/commands.md)
-* [TreexClans](plugins/treexclans.md)
+* [TreexClans](plugins/treexclans/README.md)
+  * [API](plugins/treexclans/api.md)
