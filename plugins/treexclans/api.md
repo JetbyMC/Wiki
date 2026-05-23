@@ -11,7 +11,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly "org.jetby:treexclans:api:1.0"
+    compileOnly "org.jetby:treexclans:api:VERSION"
 }
 ```
 {% endtab %}
